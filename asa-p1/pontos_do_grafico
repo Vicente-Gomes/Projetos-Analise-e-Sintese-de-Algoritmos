@@ -1,0 +1,45 @@
+Problema 1:
+
+Ponto: 10000
+Time taken by function: 79 milliseconds
+Ponto: 20000
+Time taken by function: 413 milliseconds
+Ponto: 30000
+Time taken by function: 1100 milliseconds
+Ponto: 40000
+Time taken by function: 2145 milliseconds
+Ponto: 50000
+Time taken by function: 3506 milliseconds
+Ponto: 60000
+Time taken by function: 5522 milliseconds
+Ponto: 70000
+Time taken by function: 7828 milliseconds
+Ponto: 80000
+Time taken by function: 10057 milliseconds
+Ponto: 90000
+Time taken by function: 13129 milliseconds
+Ponto: 100000
+Time taken by function: 15353 milliseconds
+
+Problema 2:
+
+Ponto: 10000
+Time taken by function: 51 milliseconds
+Ponto: 20000
+Time taken by function: 195 milliseconds
+Ponto: 30000
+Time taken by function: 441 milliseconds
+Ponto: 40000
+Time taken by function: 726 milliseconds
+Ponto: 50000
+Time taken by function: 1218 milliseconds
+Ponto: 60000
+Time taken by function: 1669 milliseconds
+Ponto: 70000
+Time taken by function: 2251 milliseconds
+Ponto: 80000
+Time taken by function: 2937 milliseconds
+Ponto: 90000
+Time taken by function: 3749 milliseconds
+Ponto: 100000
+Time taken by function: 4640 milliseconds
